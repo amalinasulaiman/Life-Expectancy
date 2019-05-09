@@ -1,0 +1,12 @@
+name: Life_Expectancy
+title: Life_Expectancy
+username:
+account: amalinas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 809749
+bundleId: 1961194
+url: https://amalinas.shinyapps.io/Life_Expectancy/
+when: 1553418338.87514
+asMultiple: FALSE
+asStatic: FALSE
